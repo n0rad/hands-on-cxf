@@ -27,12 +27,7 @@ X.
 Y. 
 Z. 
 
- * simple/fast server bootstraping with CXF server/jetty
- * simple/fast client API with CXF client
- * implementation of Integration Test 
- * transparent multi data format support
  * transaction support
- * error handling with exception (status, error payload) 
  * auto validation with bean validation
  * generated documentation with swagger
  * vendor versionning
